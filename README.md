@@ -49,11 +49,7 @@ Predictions are estimates based on the available dataset.
 They should not be treated as guaranteed business outcomes.
 
 
-
-# Business Sales Prediction Dashboard
+# The link:)
 
 https://business-sales-predictor-grs35eomzmvsjavzvkgsmp.streamlit.app/
 
-An interactive machine learning dashboard that explores business
-data and predicts sales based on advertising spend, price,
-economic conditions, and competition.
