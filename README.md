@@ -47,3 +47,13 @@ Keep the dataset in the same folder as `app.py`.
 
 Predictions are estimates based on the available dataset.
 They should not be treated as guaranteed business outcomes.
+
+
+
+# Business Sales Prediction Dashboard
+
+https://business-sales-predictor-grs35eomzmvsjavzvkgsmp.streamlit.app/
+
+An interactive machine learning dashboard that explores business
+data and predicts sales based on advertising spend, price,
+economic conditions, and competition.
